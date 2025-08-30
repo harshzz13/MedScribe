@@ -1,4 +1,6 @@
 # 🩺 MedScribe – Medical Report Summarizer
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medscribe-summarizer.streamlit.app/)
+
 
 MedScribe is a Streamlit-based AI tool that converts lengthy medical documents into concise, dual-format summaries:  
 
